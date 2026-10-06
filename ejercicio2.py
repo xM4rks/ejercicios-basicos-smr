@@ -6,10 +6,13 @@ def pedir_numero2():
     numero2 = int(input("Introduce el segundo número: "))
     return numero2
 
-suma = pedir_numero1() + pedir_numero2()
-resta = pedir_numero1() - pedir_numero2()
-multiplicacion = pedir_numero1() * pedir_numero2()
-division = pedir_numero1() / pedir_numero2()
+numero1= pedir_numero1()
+numero2= pedir_numero2()
+
+suma = numero1 + numero2
+resta = numero1 - numero2
+multiplicacion = numero1 * numero2
+division = numero1 / numero2
 
 print("suma: " + str(suma))
 print("resta: " + str(resta))
