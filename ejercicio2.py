@@ -1,3 +1,5 @@
+## Operaciones matemáticas básicas
+
 def pedir_numero1():
     numero1 = int(input("Introduce el primer número: "))
     return numero1

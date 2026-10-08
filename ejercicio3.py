@@ -1,3 +1,5 @@
+## Area del rectangulo
+
 def pedir_base():
     base = int(input("Introduce la base "))
     return base

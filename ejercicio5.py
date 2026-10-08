@@ -1,3 +1,5 @@
+## Datos personales
+
 def pedir_nombre():
     nombre = input("Introduce tu nombre: ")
     return nombre

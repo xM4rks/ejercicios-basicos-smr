@@ -1,3 +1,5 @@
+## Cambio de celsius a fahrenheit
+
 def pedir_celsius():
     celsius = float(input("Introduce la temperatura en Celsius: "))
     return celsius

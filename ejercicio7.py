@@ -1,3 +1,5 @@
+## Definir si el numero es positivo, negativo o cero
+
 def pedir_numero():
     numero = int(input ("Introduce un numero: "))
     return numero

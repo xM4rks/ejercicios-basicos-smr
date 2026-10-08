@@ -1,3 +1,5 @@
+## Definir si es mayor o menor de edad
+
 def pedir_edad():
     edad = int(input("Introduce tu edad: "))
     return edad
