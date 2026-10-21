@@ -1,3 +1,5 @@
+## Numero secreto y intento de adivinarlo
+
 numero_secreto = 25
 intentos = 0
 max_intentos = 3
