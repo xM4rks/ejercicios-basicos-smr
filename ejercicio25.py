@@ -1,5 +1,4 @@
-
-# Generador de facturas
+## Generador de facturas
 
 iva = 0.21
 
