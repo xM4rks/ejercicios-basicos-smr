@@ -31,3 +31,5 @@ while intentos < max_intentos:
         print(f"Te quedan {max_intentos - intentos} intentos.")
     else:
         print("Te has quedado sin intentos socio/a :)")
+
+## Reto conseguido. Espero que te guste la forma en la que lo he hecho aunq ns si es la más optima :)
